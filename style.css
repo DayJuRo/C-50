@@ -1,0 +1,32 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.top{
+    background-color: violet;
+    display:flex;
+    justify-content: space-between;
+}
+.trex{
+    background-color: rgb(57, 126, 12);
+    display:flex;
+    justify-content: space-evenly;
+}
+.game2{
+    background-color: rgb(33, 104, 236);
+    display:flex;
+    justify-content: flex-end;
+}
+.game3{
+    background-color: rgb(112, 11, 112);
+    display:flex;
+    flex-wrap: wrap;
+}
+.game4{
+    background-color: rgb(110, 10, 10);
+    display:flex;
+   text-align: left;
+}
